@@ -48,7 +48,7 @@ The main objective is to explore the dataset and implement machine learning mode
 3. **Model Implementation:**
    - Implement various machine learning models, including:
      - Random Forest
-     - Semi-supervised learning algorithms
+     - XGBoost
      - Deep learning models
 
 4. **Model Evaluation:**
