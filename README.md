@@ -13,7 +13,6 @@ Welcome to my exploration of credit card fraud detection! This project involves 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -22,6 +21,8 @@ In this project, I explore transaction data to understand patterns of credit car
 ## Dataset
 
 The dataset contains credit card transactions made by European cardholders in September 2013. It includes transactions over two days, with 492 frauds out of 284,807 transactions. The dataset is highly imbalanced, with the positive class (frauds) accounting for only 0.172% of all transactions.
+
+Here is the [link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data) to the dataset.
 
 - **Features:**
   - The dataset contains numerical features resulting from a PCA transformation. 
@@ -67,8 +68,8 @@ This project demonstrates the application of various machine learning techniques
 To run this project, you need to have Python and Jupyter Notebook installed. Clone the repository and install the necessary packages using:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/MOAZ47/creditcardfrauddetection.git
+cd creditcardfrauddetection
 pip install -r requirements.txt
 ```
 
