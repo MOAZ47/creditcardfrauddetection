@@ -2,6 +2,8 @@
 
 Welcome to my exploration of credit card fraud detection! This project involves exploring transaction data to identify patterns of fraudulent activities and implementing various machine learning models to predict fraud.
 
+Click here to launch the [app](https://creditcardfrauddetection-jefxyvw6dz49t2hwybly2u.streamlit.app/)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
